@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielbirman28">Linkedin</a> <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielbirman28">Linkedin</a>
 
 <h2>👨‍💻 Data Science Projects Projects:</h2>
 
