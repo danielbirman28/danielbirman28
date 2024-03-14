@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects Projects:</h2>
 
 - <b>[NBA Machine Learning Model](https://github.com/danielbirman28/NBA_Stats_Analysis_Project) - July 2023</b>
-(Python, pandas, NumPy, scikit-learn, seaborn, Matplotlib)
+  (Python, pandas, NumPy, scikit-learn, seaborn, Matplotlib)
   - Analyzed and manipulated multiple datasets with over 10,000 rows of NBA player stats using Python, pandas, and NumPy
   - Developed a predictive model using logistic regression for forecasting a player’s career outcome, supported by data analysis and visualization tools like seaborn and Matplotlib
   - Employed data cleaning techniques, mathematical adjustments, and data frame concatenation to categorize NBA players' career outcomes season by season
