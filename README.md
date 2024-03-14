@@ -1,4 +1,4 @@
-<h2>Hi, I'm Daniel!<h2>
+<h2>Hi, I'm Daniel!</h2>
   
 - <b>🇺🇸 I'm a Data Science undergraduate at UC San Diego</b>
 - <b>🐼 I work with Python, Java, and Pandas to extract meaning from data</b>
