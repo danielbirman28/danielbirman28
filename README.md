@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielbirman28">Linkedin,</a> <br/><a href="https://danielbirman28.github.io/portfolio/">Portfolio</a>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielbirman28">Linkedin,</a> <a href="https://danielbirman28.github.io/portfolio/">Portfolio</a>
 
 <h2>👨‍💻 Data Science Projects Projects:</h2>
 
