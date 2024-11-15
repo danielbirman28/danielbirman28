@@ -1,18 +1,27 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F70E&random=false&width=500&lines=Data+Science+undergraduate+%40+UC+San+Diego;Programmer;Explorer;Learner)](https://git.io/typing-svg)<h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F70E&width=500&lines=Data+Science+undergraduate+%40+UC+San+Diego;Programmer;Explorer;Learner" alt="Typing SVG" />
+  </a>
+</h3>
+
 <br>
 
-- 🐼 I work with Python, Java, and Pandas to extract meaning from data
-- 👨🏻‍💻 Right now I'm tinkering on... an ML model to predict fantasy football points
-- ❤️ I'm passionate about data science, sports analytics, and surfing
-- 📫 How to reach me **dbirman28@gmail.com**, **dbirman@ucsd.edu**
+<ul>
+  <li>🔭 I’m currently pursuing a <strong>Bachelor's in Data Science from UC San Diego</strong></li>
+  <li>🐼 I work with <strong>Python, SQL, and Pandas</strong> to extract meaning from data</li>
+  <li>👨🏻‍💻 Right now I'm tinkering on... an ML model to predict fantasy football points</li>
+  <li>❤️ I'm passionate about data science, sports analytics, and surfing</li>
+  <li>📫 How to reach me: <strong>dbirman28@gmail.com</strong>, <strong>dbirman@ucsd.edu</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-birman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-birman/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/daniel-birman/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Birman LinkedIn" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
