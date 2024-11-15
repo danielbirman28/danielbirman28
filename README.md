@@ -32,9 +32,6 @@
                   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
                    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
  </a>
- 
 </p>
-
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielbirman28)](https://github.com/anuraghazra/github-readme-stats)
-
+                   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbirman28&show_icons=true&locale=en&layout=compact" alt="danielbirman28" /></p>
