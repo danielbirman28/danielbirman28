@@ -3,9 +3,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F70E&random=false&width=500&lines=Data+Science+undergraduate+%40+UC+San+Diego;Programmer;Explorer;Learner)](https://git.io/typing-svg)<b>
 <h3>
-<!---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahashfaq" alt="abdullahashfaq" /></a> </p>
--->
+<br>
 
 - 🐼 I work with Python, Java, and Pandas to extract meaning from data
 - 👨🏻‍💻 Right now I'm tinkering on... an ML model to predict fantasy football points
@@ -19,7 +17,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
- </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+ </a>
  
 </p>
 
