@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F70E&random=false&width=500&lines=Data+Science+undergraduate+%40+UC+San+Diego;Programmer;Explorer;Learner)](https://git.io/typing-svg)<h1><br>
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F70E&random=false&width=500&lines=Data+Science+undergraduate+%40+UC+San+Diego;Programmer;Explorer;Learner)](https://git.io/typing-svg)<h3>
+<br>
 
 - 🐼 I work with Python, Java, and Pandas to extract meaning from data
 - 👨🏻‍💻 Right now I'm tinkering on... an ML model to predict fantasy football points
@@ -33,4 +35,6 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahashfaq&show_icons=true&locale=en&layout=compact" alt="abdullahashfaq" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-birman)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-birman&" alt="daniel-birman" /></p>
