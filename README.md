@@ -1,4 +1,9 @@
-<h2>Hi, I'm Daniel!<h2>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A Problem-Solver and A Full-Stack Data Professional</h3>
+<br>
+<!---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahashfaq" alt="abdullahashfaq" /></a> </p>
+-->
   
 <b>I am a: 
  
