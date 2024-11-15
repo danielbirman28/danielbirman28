@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">I am a:</h3>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F70E&width=500&lines=Data+Science+undergraduate+%40+UC+San+Diego;Programmer;Explorer;Learner" alt="Typing SVG" />
