@@ -35,6 +35,6 @@
  
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-birman)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielbirman28)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-birman&" alt="daniel-birman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielbirman28&" alt="danielbirman28" /></p>
